@@ -1,0 +1,5 @@
+Bootstrap: 5.1.3
+JQuery: 3.6.0
+Popper: 1.11.0
+
+Class Jumbotron has been removed in Bootstrap 5 !!
